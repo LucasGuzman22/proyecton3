@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    
+
+}
+
+header{
+    width: 100vw;
+    height: 20vh ;
+
+}
+
+main{
+    width: 100vw;
+    height: 75vh;
+
+}
+
+footer{
+    width: 100vw;
+    height: 5vh;
+  
+
+}
+
+.colortext{
+    color: brown;
+    font-style: italic;
+}
+
+#colo{
+    color: black;
+}
+
