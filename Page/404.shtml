@@ -5,8 +5,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=}, initial-scale=1.0">
-    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
     <link rel="stylesheet" href="./Css/stylo.css">
@@ -51,40 +49,18 @@
     </header>
 
     <main class="container-fluid">
-
-        <div class="row h-100">
+<div class="row h-100">
+<section class="col-6"></section>
+        <h1>ERROR 404</h1>
         
+        
+    </div>    
+</section>
+<section class="col-6">
 
-            <h5 >¿Estás considerando la posibilidad de hacerte un tatuaje, pero no tienes ni idea de qué aspecto tendrá?
-                Comprueba nuestra base de datos con cientos de miles de diseños y encuentra el tatuaje de tus sueños.
-            </h5>
-
-            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-                <div class="carousel-inner">
-                  <div class="carousel-item active">
-                    <img src="./asests/imagenes/imgtp3.png" height="460px" class="d-block w-100" alt="img">
-                  </div>
-                  <div class="carousel-item">
-                    <img src="./asests/imagenes/colola.png" height="460px" class="d-block w-100" alt="img">
-                  </div>
-                  <div class="carousel-item">
-                    <img src="./asests/imagenes/colale.png" height="460px" class="d-block w-100" alt="img">
-                  </div>
-                </div>
-                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                  <span class="visually-hidden">Previous</span>
-                </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                  <span class="visually-hidden">Next</span>
-                </button>
-              </div>
-
-
-
-        </div>
-
+<img src="../asests/imagenes/imgtp3.png" alt="img">
+<h3>Upss la pagina no funiona!</h3>
+</section>
 
     </main>
 
@@ -130,9 +106,5 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.min.js"
         integrity="sha384-IDwe1+LCz02ROU9k972gdyvl+AESN10+x7tBKgc9I5HFtuNz0wWnPclzo6p9vxnk"
         crossorigin="anonymous"></script>
-        <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-        <script>
-            AOS.init();
-          </script>
 
 </body>
